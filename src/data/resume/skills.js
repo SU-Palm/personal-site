@@ -4,7 +4,7 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -14,63 +14,23 @@ const skills = [
   },
   {
     title: 'React',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 4,
     category: ['Tools', 'Languages'],
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
+    competency: 1,
     category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'ElasticSearch',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['Data Science'],
-  },
-  {
-    title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'D3',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Flask',
-    competency: 2,
-    category: ['Web Development', 'Python'],
   },
   {
     title: 'Git/Mercurial',
@@ -78,33 +38,13 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Kubernetes',
-    competency: 2,
-    category: ['Tools', 'Data Engineering'],
-  },
-  {
-    title: 'Google Cloud Compute',
-    competency: 2,
-    category: ['Tools', 'Web Development'],
-  },
-  {
     title: 'Numpy',
-    competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Numba',
     competency: 2,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
     title: 'Tensorflow + Keras',
-    competency: 3,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 3,
+    competency: 2,
     category: ['Data Science', 'Python'],
   },
   {
@@ -119,17 +59,12 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 5,
+    competency: 4,
     category: ['Languages', 'Python'],
   },
   {
     title: 'C++',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'Julia',
-    competency: 2,
+    competency: 5,
     category: ['Languages'],
   },
   {
